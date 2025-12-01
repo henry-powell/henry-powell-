@@ -1,4 +1,8 @@
 # Hello, I'm Henry Powell
+![Audio DSP](https://img.shields.io/badge/Focus-Audio%20DSP-red)
+![Game Audio](https://img.shields.io/badge/Interactive-Audio%20for%20Games-blue)
+![Programming](https://img.shields.io/badge/Languages-Max%2FMSP%20%7C%20MATLAB%20%7C%20C%2B%2B-green)
+![Audio Technology (MA)](https://img.shields.io/badge/Audio%20Technology%20(MA)-Graduate%20Student-purple)
 
 **Audio Engineer & Audio Technology Graduate Student**  
 Focused on **DSP, sound design, and audio programming for games, post-production, and interactive media.**
